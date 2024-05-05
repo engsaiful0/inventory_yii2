@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/models/LoginForm.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/models/UserStore.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/components/UserIdentity.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/controllers/SiteController.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/yii/framework/web/widgets/captcha/CCaptchaAction.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/controllers/InventoryController.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/controllers/UsersController.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/models/Users.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/components/views/UserMenu.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/modules/rights/controllers/InstallController.php</file>
+            <file>file:/F:/xampp/htdocs/inventory/inv/protected/controllers/PosController.php</file>
+        </group>
+    </open-files>
+</project-private>

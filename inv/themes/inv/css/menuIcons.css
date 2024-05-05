@@ -1,0 +1,100 @@
+span#departments, 
+span#designations, 
+span#employee, 
+span#stores, 
+span#users, 
+span#permission_mngmnt,
+span#yourCompany,
+span#cats,
+span#catsSub,
+span#items,
+span#order_form,
+span#inventory,
+span#price,
+span#supplier,
+span#reports,
+span#brand,
+span#model,
+span#country,
+span#banks,
+span#contacts,
+span#barcode,
+span#machines,
+span#pos{
+    float: left;
+    height: 16px;
+    margin-right: 2px;
+    width: 16px;
+    background-repeat: no-repeat;
+    margin-top: 4px;
+    margin-left: 6px;
+}
+span#pos{
+    background-image: url(../images/pos.ico);
+}
+span#machines{
+    background-image: url(../images/machines.ico);
+}
+span#barcode{
+    background-image: url(../images/barcode.ico);
+}
+span#contacts{
+    background-image: url(../images/contacts.ico);
+}
+span#banks{
+    background-image: url(../images/bank.ico);
+}
+span#country{
+    background-image: url(../images/country.ico);
+}
+span#brand{
+    background-image: url(../images/brand.ico);
+}
+span#model{
+    background-image: url(../images/model.ico);
+}
+span#reports{
+    background-image: url(../images/reports.ico);
+}
+span#supplier {
+    background-image: url(../images/suppliers.ico);
+}
+span#price {
+    background-image: url(../images/price.ico);
+}
+span#inventory {
+    background-image: url(../images/inventory.ico);
+}
+span#order_form {
+    background-image: url(../images/order_form.ico);
+}
+span#cats {
+    background-image: url(../images/cats.ico);
+}
+span#catsSub{
+    background-image: url(../images/cats_sub.ico);
+}
+span#items {
+    background-image: url(../images/items.ico);
+}
+span#stores {
+    background-image: url(../images/stores.ico);
+}
+span#designations {
+    background-image: url(../images/designations.ico);
+}
+span#users {
+    background-image: url(../images/users.ico);
+}
+span#permission_mngmnt {
+    background-image: url(../images/permissions.ico);
+}
+span#departments {
+    background-image: url(../images/departments.ico);
+}
+span#employee {
+    background-image: url(../images/employee.ico);
+}
+span#yourCompany {
+    background-image: url(../images/your_company.ico);
+}
